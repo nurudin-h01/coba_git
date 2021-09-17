@@ -1,2 +1,5 @@
 Nama : Muhammad Nurudin Hidayat
-Kelompok : 2 (Danone)
+<br>
+Kelompok : 2 
+<br>
+Partner : Danone
